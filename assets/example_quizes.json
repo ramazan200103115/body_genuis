@@ -1,0 +1,144 @@
+{
+  "quizes": [
+    {
+      "id": 1,
+      "title": "Anatomy Quiz",
+      "author": "John Smith",
+      "questions_count": 10,
+      "image_url": "https://example.com/anatomy_quiz_image.jpg"
+    },
+    {
+      "id": 2,
+      "title": "History Quiz",
+      "author": "Emily Johnson",
+      "questions_count": 15,
+      "image_url": "https://example.com/history_quiz_image.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Science Quiz",
+      "author": "Michael Brown",
+      "questions_count": 20,
+      "image_url": null
+    },
+    {
+      "id": 4,
+      "title": "Literature Quiz",
+      "author": "Sarah Thompson",
+      "questions_count": 12,
+      "image_url": null
+    },
+    {
+      "id": 5,
+      "title": "Geography Quiz",
+      "author": "David Wilson",
+      "questions_count": 18,
+      "image_url": "https://example.com/geography_quiz_image.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Math Quiz",
+      "author": "Rachel Garcia",
+      "questions_count": 25,
+      "image_url": null
+    },
+    {
+      "id": 7,
+      "title": "Music Quiz",
+      "author": "Daniel Martinez",
+      "questions_count": 10,
+      "image_url": "https://example.com/music_quiz_image.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Movie Quiz",
+      "author": "Olivia Clark",
+      "questions_count": 20,
+      "image_url": null
+    },
+    {
+      "id": 9,
+      "title": "Sports Quiz",
+      "author": "James Anderson",
+      "questions_count": 15,
+      "image_url": null
+    },
+    {
+      "id": 10,
+      "title": "Technology Quiz",
+      "author": "Sophia Lee",
+      "questions_count": 10,
+      "image_url": "https://example.com/technology_quiz_image.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Animal Quiz",
+      "author": "Benjamin White",
+      "questions_count": 10,
+      "image_url": null
+    },
+    {
+      "id": 12,
+      "title": "Food Quiz",
+      "author": "Emma Scott",
+      "questions_count": 15,
+      "image_url": "https://example.com/food_quiz_image.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Language Quiz",
+      "author": "Liam Taylor",
+      "questions_count": 10,
+      "image_url": null
+    },
+    {
+      "id": 14,
+      "title": "Art Quiz",
+      "author": "Ava Martinez",
+      "questions_count": 20,
+      "image_url": null
+    },
+    {
+      "id": 15,
+      "title": "Environment Quiz",
+      "author": "Ethan Moore",
+      "questions_count": 10,
+      "image_url": null
+    },
+    {
+      "id": 16,
+      "title": "Fashion Quiz",
+      "author": "Mia Allen",
+      "questions_count": 10,
+      "image_url": "https://example.com/fashion_quiz_image.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Health Quiz",
+      "author": "Logan Hall",
+      "questions_count": 15,
+      "image_url": null
+    },
+    {
+      "id": 18,
+      "title": "Psychology Quiz",
+      "author": "Harper Young",
+      "questions_count": 12,
+      "image_url": null
+    },
+    {
+      "id": 19,
+      "title": "Travel Quiz",
+      "author": "Nora Baker",
+      "questions_count": 10,
+      "image_url": null
+    },
+    {
+      "id": 20,
+      "title": "Weather Quiz",
+      "author": "Carter Turner",
+      "questions_count": 10,
+      "image_url": "https://example.com/weather_quiz_image.jpg"
+    }
+  ]
+}

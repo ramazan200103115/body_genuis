@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "question": "What is osteology?",
+      "options": [
+        "Study of insects",
+        "Study of bones",
+        "Study of stars",
+        "Study of oceans"
+      ],
+      "answer_index": 1,
+      "imageUrl": "null"
+    },
+    {
+      "question": "Which bone protects the brain?",
+      "options": ["Femur", "Mandible", "Cranium", "Radius"],
+      "answer_index": 2,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone forms the backbone?",
+      "options": ["Scapula", "Fibula", "Vertebrae", "Tibia"],
+      "answer_index": 2,
+      "imageUrl": "null"
+    },
+    {
+      "question": "What is the longest bone in the human body?",
+      "options": ["Tibia", "Femur", "Ulna", "Humerus"],
+      "answer_index": 1,
+      "imageUrl": "null"
+    },
+    {
+      "question": "Which bone is commonly known as the funny bone?",
+      "options": ["Ulna", "Femur", "Tibia", "Radius"],
+      "answer_index": 0,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone is also known as the collarbone?",
+      "options": ["Humerus", "Radius", "Clavicle", "Ulna"],
+      "answer_index": 2,
+      "imageUrl": "null"
+    },
+    {
+      "question": "What is the study of joints called?",
+      "options": ["Osteology", "Myology", "Arthrology", "Dermatology"],
+      "answer_index": 2,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone is commonly referred to as the shinbone?",
+      "options": ["Femur", "Fibula", "Radius", "Tibia"],
+      "answer_index": 3,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone articulates with the scapula to form the shoulder joint?",
+      "options": ["Humerus", "Femur", "Tibia", "Radius"],
+      "answer_index": 0,
+      "imageUrl": null
+    },
+    {
+      "question": "What is the medical term for the jawbone?",
+      "options": ["Maxilla", "Mandible", "Zygomatic", "Frontal"],
+      "answer_index": 1,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone forms the prominent part of the cheek?",
+      "options": ["Mandible", "Maxilla", "Nasal", "Zygomatic"],
+      "answer_index": 3,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone houses the structures of the middle and inner ear?",
+      "options": ["Mandible", "Temporal", "Occipital", "Parietal"],
+      "answer_index": 1,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone is commonly referred to as the thigh bone?",
+      "options": ["Tibia", "Fibula", "Femur", "Ulna"],
+      "answer_index": 2,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone forms the bridge of the nose?",
+      "options": ["Maxilla", "Mandible", "Nasal", "Zygomatic"],
+      "answer_index": 2,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone is responsible for forming the forehead?",
+      "options": ["Mandible", "Maxilla", "Frontal", "Parietal"],
+      "answer_index": 2,
+      "imageUrl": null
+    },
+    {
+      "question": "What type of joint is the elbow joint?",
+      "options": ["Pivot", "Ball and socket", "Hinge", "Gliding"],
+      "answer_index": 2,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone is commonly known as the kneecap?",
+      "options": ["Tibia", "Fibula", "Femur", "Patella"],
+      "answer_index": 3,
+      "imageUrl": null
+    },
+    {
+      "question": "What is the anatomical name for the shoulder blade?",
+      "options": ["Scapula", "Clavicle", "Humerus", "Sternum"],
+      "answer_index": 0,
+      "imageUrl": null
+    },
+    {
+      "question": "Which bone forms the lower jaw?",
+      "options": ["Maxilla", "Mandible", "Zygomatic", "Frontal"],
+      "answer_index": 1,
+      "imageUrl": "null"
+    },
+    {
+      "question": "What type of joint is the hip joint?",
+      "options": ["Pivot", "Hinge", "Ball and socket", "Gliding"],
+      "answer_index": 2,
+      "imageUrl": null
+    }
+  ]
+}

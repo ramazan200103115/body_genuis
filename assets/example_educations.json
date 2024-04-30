@@ -1,0 +1,84 @@
+{
+  "educations": [
+    {
+      "id": 1,
+      "title": "Anatomy"
+    },
+    {
+      "id": 2,
+      "title": "Cytology"
+    },
+    {
+      "id": 3,
+      "title": "Osteology"
+    },
+    {
+      "id": 4,
+      "title": "Syndesmology"
+    },
+    {
+      "id": 5,
+      "title": "Myology"
+    },
+    {
+      "id": 6,
+      "title": "Angiology"
+    },
+    {
+      "id": 7,
+      "title": "Neurology"
+    },
+    {
+      "id": 8,
+      "title": "Aesthesiology"
+    },
+    {
+      "id": 9,
+      "title": "Endocrinology"
+    },
+    {
+      "id": 10,
+      "title": "General Medicine"
+    },
+    {
+      "id": 11,
+      "title": "Animal Quiz"
+    },
+    {
+      "id": 12,
+      "title": "Food Quiz"
+    },
+    {
+      "id": 13,
+      "title": "Language Quiz"
+    },
+    {
+      "id": 14,
+      "title": "Art Quiz"
+    },
+    {
+      "id": 15,
+      "title": "Environment Quiz"
+    },
+    {
+      "id": 16,
+      "title": "Fashion Quiz"
+    },
+    {
+      "id": 17,
+      "title": "Health Quiz"
+    },
+    {
+      "id": 18,
+      "title": "Psychology Quiz"
+    },
+    {
+      "id": 19,
+      "title": "Travel Quiz"
+    },
+    {
+      "id": 20,
+      "title": "Weather Quiz"
+    }
+  ]
+}
